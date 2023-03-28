@@ -47,7 +47,6 @@ Open Source Model and Project Awards
 - All PNG info will be deleted from the images, so voters will not know which images belong to which creator.
 - The voters will indicate their preference for each image by selecting the ❤ emoji.
 - All ❤ votes will be made public and shown in real-time on this repository.
-- Only the votes of the voters will be counted.
 - This is an example voting system demonstration.
 - Even if an image receives 10,000 ❤ emojis, only the ❤ emojis from voters will be counted as a vote.
 ![Screenshot 2023-03-29 002932](https://user-images.githubusercontent.com/54370274/228371338-e9c21fc8-3840-43ce-8bca-b4fb948140f1.png)
