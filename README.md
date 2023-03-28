@@ -24,7 +24,7 @@ Open Source Model Awards
 
 ## 📄 Award Application Form
 
-- Enter your model's official public address 
+- Enter your model's official public address civitai.com or huggingface.com.
 - Enter five prompts that will represent your model.
 - The award application will be closed on May 1st, 2023.
 - [Award Application Form](https://github.com/camenduru/awards/issues/new?assignees=&labels=&template=award_application.yml)
