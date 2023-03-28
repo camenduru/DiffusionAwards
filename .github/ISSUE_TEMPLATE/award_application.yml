@@ -44,7 +44,7 @@ body:
     attributes:
       label: Enter the prompt 1 that will represent your model.
       description: prompt 1
-      placeholder: prompt: human Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10
+      placeholder: "prompt: human Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10"
       render: shell
     validations:
       required: true
@@ -53,7 +53,7 @@ body:
     attributes:
       label: Enter the prompt 2 that will represent your model.
       description: prompt 2
-      placeholder: prompt: human Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10
+      placeholder: "prompt: human Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10"
       render: shell
     validations:
       required: true
@@ -62,7 +62,7 @@ body:
     attributes:
       label: Enter the prompt 3 that will represent your model.
       description: prompt 3
-      placeholder: prompt: human Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10
+      placeholder: "prompt: human Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10"
       render: shell
     validations:
       required: true
@@ -71,7 +71,7 @@ body:
     attributes:
       label: Enter the prompt 4 that will represent your model.
       description: prompt 4
-      placeholder: prompt: human Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10
+      placeholder: "prompt: human Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10"
       render: shell
     validations:
       required: true
@@ -80,7 +80,7 @@ body:
     attributes:
       label: Enter the prompt 5 that will represent your model.
       description: prompt 5
-      placeholder: prompt: human Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10
+      placeholder: "prompt: human Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10"
       render: shell
     validations:
       required: true
