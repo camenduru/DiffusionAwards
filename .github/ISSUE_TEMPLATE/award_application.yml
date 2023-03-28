@@ -31,36 +31,54 @@ body:
         - best realistic aesthetic gradient
     validations:
       required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model Public URL
+      description: civitai or huggingface or other public url
+      placeholder: ex. https://civitai.com/models/9668/plushies
+    validations:
+      required: true
   - type: textarea
     id: prompt1
     attributes:
       label: Enter the prompt 1 that will represent your model.
       description: prompt 1
       render: shell
+    validations:
+      required: true
   - type: textarea
     id: prompt2
     attributes:
       label: Enter the prompt 2 that will represent your model.
       description: prompt 2
       render: shell
+    validations:
+      required: true
   - type: textarea
     id: prompt3
     attributes:
       label: Enter the prompt 3 that will represent your model.
       description: prompt 3
       render: shell
+    validations:
+      required: true
   - type: textarea
     id: prompt4
     attributes:
       label: Enter the prompt 4 that will represent your model.
       description: prompt 4
       render: shell
+    validations:
+      required: true
   - type: textarea
     id: prompt5
     attributes:
       label: Enter the prompt 5 that will represent your model.
       description: prompt 5
       render: shell
+    validations:
+      required: true
   - type: checkboxes
     id: terms
     attributes:
