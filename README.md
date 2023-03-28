@@ -9,7 +9,8 @@ Open Source Model and Project Awards
 ## 🥳 Motivation
 In the stable diffusion community, open-source models and project creators provide us with many useful and innovative tools. Perhaps with the Stable Diffusion Awards, we can express our gratitude.
 
-## 🏆 The Model Awards (The Project Awards will be announced after The Model Awards)
+## 🏆 The Model Awards
+The Project Awards will be announced after The Model Awards.
 
 ### 📕 Rules & Eligibility
 - Your model has to be an open source license and open to the public.
