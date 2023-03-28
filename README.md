@@ -1,3 +1,5 @@
+# 🚦 WIP 🚦 This is a proposal. This project may not be started.
+
 # 🏆 Stable Diffusion Awards
 Open Source Model and Project Awards
 
