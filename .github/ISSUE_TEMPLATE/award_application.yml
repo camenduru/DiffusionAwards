@@ -1,58 +1,63 @@
 name: Award Application
 description:  Award Application
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to fill out this bug report!
   - type: input
     id: contact
     attributes:
       label: Contact Details
-      description: How can we get in touch with you if we need more info?
+      description: How can we get in touch with you?
       placeholder: ex. email@example.com
     validations:
-      required: false
-  - type: textarea
-    id: what-happened
-    attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
-      placeholder: Tell us what you see!
-      value: "A bug happened!"
-    validations:
       required: true
   - type: dropdown
-    id: version
+    id: category
     attributes:
-      label: Version
-      description: What version of our software are you running?
+      label: Award Category
+      description: Which award category do you want to enter?
       options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
+        - best anime trained
+        - best anime merged
+        - best anime lora
+        - best anime lycoris
+        - best anime textual inversion
+        - best anime hypernetworks
+        - best anime aesthetic gradient
+        - best realistic trained
+        - best realistic merged
+        - best realistic lora
+        - best realistic lycoris
+        - best realistic textual inversion
+        - best realistic hypernetworks
+        - best realistic aesthetic gradient
     validations:
       required: true
-  - type: dropdown
-    id: browsers
-    attributes:
-      label: What browsers are you seeing the problem on?
-      multiple: true
-      options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
   - type: textarea
-    id: logs
+    id: prompts
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: Enter the prompt 1 that will represent your model.
+      description: prompt 1
+      render: shell
+    attributes:
+      label: Enter the prompt 2 that will represent your model.
+      description: prompt 2
+      render: shell
+    attributes:
+      label: Enter the prompt 3 that will represent your model.
+      description: prompt 3
+      render: shell
+    attributes:
+      label: Enter the prompt 4 that will represent your model.
+      description: prompt 4
+      render: shell
+    attributes:
+      label: Enter the prompt 5 that will represent your model.
+      description: prompt 5
       render: shell
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Rules
+      description: By submitting this issue, you agree to follow our [Rules & Eligibility](https://github.com/camenduru/awards/blob/main/README.md)
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: I agree to follow this project's Rules & Eligibility
           required: true
