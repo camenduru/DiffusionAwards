@@ -32,23 +32,31 @@ body:
     validations:
       required: true
   - type: textarea
-    id: prompts
+    id: prompt1
     attributes:
       label: Enter the prompt 1 that will represent your model.
       description: prompt 1
       render: shell
+  - type: textarea
+    id: prompt2
     attributes:
       label: Enter the prompt 2 that will represent your model.
       description: prompt 2
       render: shell
+  - type: textarea
+    id: prompt3
     attributes:
       label: Enter the prompt 3 that will represent your model.
       description: prompt 3
       render: shell
+  - type: textarea
+    id: prompt4
     attributes:
       label: Enter the prompt 4 that will represent your model.
       description: prompt 4
       render: shell
+  - type: textarea
+    id: prompt5
     attributes:
       label: Enter the prompt 5 that will represent your model.
       description: prompt 5
