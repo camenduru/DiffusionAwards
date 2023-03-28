@@ -7,7 +7,7 @@ Open Source Model and Project Awards
 - Your model has to be an open source license and open to the public.
 - Your model has to be published before April 1st, 2023.
 - The model should be created by you, and we will verify this by checking the official model creator accounts on civitai.com or huggingface.com.
-- Each applicant can only join with one model.
+- Each applicant can only join with one model and one award categorie.
 
 ### 🗃 Model Awards Categories
 - Best Anime Trained Model
