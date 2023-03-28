@@ -1,5 +1,5 @@
 # 🏆 Stable Diffusion Awards
-Open Source Model and Project Awards
+Open Source Model Awards
 
 ## 🏆 Model Awards
 
@@ -45,12 +45,3 @@ Open Source Model and Project Awards
 - All the money collected until June 1st, 2023, will be divided by 14 (categories)
 - For example, if we collect $14 USD dollars, each winner will receive $1 USD dollar.
 - On June 1st, 2023, the collection of donations on ko-fi.com will stop.
-
-
-## 🏆 Project Awards
-
-### 📕 Rules & Eligibility
-### 🗃 Project Awards Categories
-### 📄 Award Application Form
-### ✅ Voters
-### 💰 Money Award
