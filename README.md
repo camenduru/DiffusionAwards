@@ -1,12 +1,14 @@
-## 🏆 Model Awards
-Open Source Model Awards
+# 🏆 Stable Diffusion Awards
+Open Source Model and Project Awards
 
-## 📕 Rules & Eligibility
+## 🏆 Model Awards
+
+### 📕 Rules & Eligibility
 - Your model has to be an open source license and open to the public.
 - Your model has to be published before April 1st, 2023.
 - The model should be created by you, and we will verify this by checking the official model creator accounts on civitai.com or huggingface.com.
 
-## 🗃 Model Awards Categories
+### 🗃 Model Awards Categories
 - Best Anime Trained Model
 - Best Realistic Trained Model
 - Best Anime Merged Model
@@ -22,23 +24,32 @@ Open Source Model Awards
 - Best Anime Aesthetic Gradient Model
 - Best Realistic Aesthetic Gradient Model
 
-## 📄 Award Application Form
+### 📄 Award Application Form
 
 - Enter your model's official public address civitai.com or huggingface.com.
 - Enter five prompts that will represent your model.
 - The award application will be closed on May 1st, 2023.
 - [Award Application Form](https://github.com/camenduru/awards/issues/new?assignees=&labels=&template=award_application.yml)
 
-## ✅ Voters
+### ✅ Voters
 - More than 100 voters will be invited to join the voting session. 
 - We will invite those who have made significant contributions to the community, including artists and developers.
 - We will announce the usernames of those who have been invited to join on May 1st, 2023.
 - Using the prompts provided by the applicants, we will generate images, which will then be shown to the voters. The voters will indicate whether they approve or disapprove of each image. All yes and no votes will be made public and shown in real-time on this repository.  
 
-## 💰 Money Award
+### 💰 Money Award
 - The award winners will be announced on June 1st, 2023.
 - Since the ko-fi.com donations are public, we will collect the money using ko-fi.com and distribute the funds to the award winners also using ko-fi.com
 - Until June 1st, 2023, all the money collected will be given to the award winners with the same dividend value. 
 - All the money collected until June 1st, 2023, will be divided by 14 (categories)
 - For example, if we collect $14 USD dollars, each winner will receive $1 USD dollar.
 - If we continue to collect money after June 1st, 2023, all funds collected will be added to the award fund for the following year.
+
+
+## 🏆 Project Awards
+
+### 📕 Rules & Eligibility
+### 🗃 Project Awards Categories
+### 📄 Award Application Form
+### ✅ Voters
+### 💰 Money Award
