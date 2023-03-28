@@ -39,6 +39,6 @@ Open Source Model Awards
 - The award winners will be announced on June 1st, 2023.
 - Since the ko-fi.com donations are public, we will collect the money using ko-fi.com and distribute the funds to the award winners also using ko-fi.com
 - Until June 1st, 2023, all the money collected will be given to the award winners with the same dividend value. 
-- All the money collected until June 1st, 2023, will be divided by 14 categories
-- If we continue to collect money after June 1st, 2023, all funds collected will be added to the award fund for the following year.
+- All the money collected until June 1st, 2023, will be divided by 14 (categories)
 - For example, if we collect $14 USD dollars, each winner will receive $1 USD dollar.
+- If we continue to collect money after June 1st, 2023, all funds collected will be added to the award fund for the following year.
