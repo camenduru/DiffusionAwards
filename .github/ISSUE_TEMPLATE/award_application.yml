@@ -5,7 +5,7 @@ body:
     id: contact
     attributes:
       label: Contact Details
-      description: How can we get in touch with you? The model should be created by you, and we will verify this by checking the official model creator accounts on civitai.com or huggingface.com.
+      description: How can we get in touch with you? (The model should be created by you, and we will verify this by checking the official model creator accounts on civitai.com or huggingface.com.)
       placeholder: ex. twitter username or email or ...
     validations:
       required: true
@@ -13,7 +13,7 @@ body:
     id: category
     attributes:
       label: Award Category
-      description: Which award category do you want to enter? Each applicant can only join with one model and one award categorie.
+      description: Which award category do you want to enter? (Each applicant can only join with one model and one award categorie.)
       options:
         - best anime trained
         - best anime merged
