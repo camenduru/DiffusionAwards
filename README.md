@@ -45,12 +45,12 @@ Open Source Model and Project Awards
 - For example, if we collect $24 USD dollars, the Best Anime Trained Model winner will receive $6 USD dollars, the Best Realistic Trained Model winner will receive $6 USD dollars, and the winners of the other categories will receive $1 USD dollar each.
 - On June 1st, 2023, the collection of donations on ko-fi.com will stop.
 
-### 💰 Sponsors (Companies)
+### 🖨 Sponsors (Companies)
 - We will invite sponsors (companies) to contribute to the prize pool and provide additional prizes to the award winners. 
 - If we continue with the example above, any winner would receive a money award plus any additional prize provided by sponsors.
 - Sponsors (companies) should give the sponsor-provided prize directly to the winners.
 - If we obtain any sponsors (companies), we will announce what they are providing to the award winners on this page.
 
-### Official URLs for the Stable Diffusion Open Source Model and Project Awards
+### 🔗 Official URLs for the Stable Diffusion Open Source Model and Project Awards
 - https://github.com/camenduru/awards
 - https://ko-fi.com/awards
