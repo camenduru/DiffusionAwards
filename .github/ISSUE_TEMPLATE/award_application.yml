@@ -13,7 +13,7 @@ body:
     id: category
     attributes:
       label: Award Category
-      description: Which award category do you want to enter?
+      description: Which award category do you want to enter? Each applicant can only join with one model and one award categorie.
       options:
         - best anime trained
         - best anime merged
