@@ -44,7 +44,7 @@ Open Source Model and Project Awards
 - Until June 1st, 2023, all the money collected will be given to the award winners with the same dividend value. 
 - All the money collected until June 1st, 2023, will be divided by 14 (categories)
 - For example, if we collect $14 USD dollars, each winner will receive $1 USD dollar.
-- If we continue to collect money after June 1st, 2023, all funds collected will be added to the award fund for the following year.
+- On June 1st, 2023, the collection of donations on ko-fi.com will stop.
 
 
 ## 🏆 Project Awards
