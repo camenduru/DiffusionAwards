@@ -41,7 +41,6 @@ Open Source Model and Project Awards
 ### 💰 Money Award
 - The award winners will be announced on June 1st, 2023.
 - Since the ko-fi.com donations are public, we will collect the money using https://ko-fi.com/awards and distribute the funds to the award winners also using ko-fi.com
-- Until June 1st, 2023, all the money collected will be given to the award winners with the same dividend value. 
-- All the money collected until June 1st, 2023, will be divided by 14 (categories)
-- For example, if we collect $14 USD dollars, each winner will receive $1 USD dollar.
+- All the money collected until June 1st, 2023, will be shared as follows: First, we will divide the total funds into two. One piece will go to the Best Anime Trained Model, and the other piece will go to the Best Realistic Trained Model. The other half will be divided into 12 and shared evenly among the other categories.
+- For example, if we collect $24 USD dollars, the Best Anime Trained Model winner will receive $6 USD dollars, the Best Realistic Trained Model winner will receive $6 USD dollars, and the winners of the other categories will receive $1 USD dollar each.
 - On June 1st, 2023, the collection of donations on ko-fi.com will stop.
