@@ -6,7 +6,7 @@ body:
     attributes:
       label: Contact Details
       description: How can we get in touch with you?
-      placeholder: ex. email@example.com
+      placeholder: ex. twitter username or email or ...
     validations:
       required: true
   - type: dropdown
@@ -34,8 +34,8 @@ body:
   - type: input
     id: model
     attributes:
-      label: Model Public URL
-      description: civitai or huggingface or other public url
+      label: Official Creator's Public Model URL
+      description: civitai or huggingface public url
       placeholder: ex. https://civitai.com/models/9668/plushies
     validations:
       required: true
