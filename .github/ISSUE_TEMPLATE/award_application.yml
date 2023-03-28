@@ -15,20 +15,20 @@ body:
       label: Award Category
       description: Which award category do you want to enter? (Each applicant can only join with one model and one award categorie.)
       options:
-        - best anime trained
-        - best anime merged
-        - best anime lora
-        - best anime lycoris
-        - best anime textual inversion
-        - best anime hypernetworks
-        - best anime aesthetic gradient
-        - best realistic trained
-        - best realistic merged
-        - best realistic lora
-        - best realistic lycoris
-        - best realistic textual inversion
-        - best realistic hypernetworks
-        - best realistic aesthetic gradient
+        - Best Anime Trained Model
+        - Best Realistic Trained Model
+        - Best Anime Merged Model
+        - Best Realistic Merged Model
+        - Best Anime LoRa Model
+        - Best Realistic LoRa Model
+        - Best Anime Lycoris Model
+        - Best Realistic Lycoris Model
+        - Best Anime Textual Inversion Model
+        - Best Realistic Textual Inversion Model
+        - Best Anime Hypernetworks Model
+        - Best Realistic Hypernetworks Model
+        - Best Anime Aesthetic Gradient Model
+        - Best Realistic Aesthetic Gradient Model
     validations:
       required: true
   - type: input
