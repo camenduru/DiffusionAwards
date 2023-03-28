@@ -1,5 +1,5 @@
 # 🏆 Stable Diffusion Awards
-Open Source Model Awards
+Open Source Model and Project Awards
 
 ## 🏆 Model Awards
 
