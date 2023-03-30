@@ -38,7 +38,7 @@ The Project Awards will be announced after The Model Awards.
 
 - Enter your model's official public address civitai.com or huggingface.com.
 - Enter five prompts that will represent your model. 
-- Because we will use GitHub for the voting process, prompts should not generate NSFW images.
+- Prompts can generate nudity but not pornographic images.
 - The award application will be closed on June 1st, 2023.
 - [Award Application Form](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=award_application.yml)
 
@@ -71,7 +71,6 @@ The Project Awards will be announced after The Model Awards.
 
 ### ❤ Special Thanks
 Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing great ideas.
-
 
 ### 🔗 Official URLs for the Diffusion Open Source Model and Project Awards
 - https://github.com/camenduru/DiffusionAwards
