@@ -54,7 +54,7 @@ The Project Awards will be announced after The Model Awards.
 - All ❤ votes (likes) will be made public and shown in real-time on https://twitter.com/DiffusionAwards.
 - This is an example voting system demonstration.
 - Even if an image receives 10,000 ❤ likes, only the ❤ likes from voters will be counted as a vote.
-![voting_booth](https://user-images.githubusercontent.com/54370274/228961803-6c5cefe5-736a-4238-bec3-20a1e56d428d.png)
+![voting_booth](https://user-images.githubusercontent.com/54370274/228962278-63e2cf79-6026-476d-aa36-34e02e2ddf19.png)
 
 ### 💰 Money Award
 - The award winners will be announced on July 1st, 2023.
