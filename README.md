@@ -50,11 +50,12 @@ The Project Awards will be announced after The Model Awards.
 ### ❤ Voting Process
 - Using the prompts provided by the applicants, we will generate images, which will then be shown to the voters.
 - All PNG info will be deleted from the images, so voters will not know which images belong to which creator.
-- The voters will indicate their preference for each image by selecting the ❤ emoji.
-- All ❤ votes will be made public and shown in real-time on this repository.
+- The voters will indicate their preference for each image by ❤ liking the image on https://twitter.com/DiffusionAwards.
+- All ❤ votes (likes) will be made public and shown in real-time on https://twitter.com/DiffusionAwards.
 - This is an example voting system demonstration.
-- Even if an image receives 10,000 ❤ emojis, only the ❤ emojis from voters will be counted as a vote.
-![Screenshot 2023-03-29 002932](https://user-images.githubusercontent.com/54370274/228371338-e9c21fc8-3840-43ce-8bca-b4fb948140f1.png)
+- Even if an image receives 10,000 ❤ likes, only the ❤ likes from voters will be counted as a vote.
+
+![voting_booth](https://user-images.githubusercontent.com/54370274/228961099-a7cb5416-3598-46aa-9805-bac3fe5315e7.png)
 
 ### 💰 Money Award
 - The award winners will be announced on July 1st, 2023.
@@ -76,3 +77,4 @@ Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing g
 ### 🔗 Official URLs for the Stable Diffusion Open Source Model and Project Awards
 - https://github.com/camenduru/awards
 - https://ko-fi.com/awards
+- https://twitter.com/DiffusionAwards
