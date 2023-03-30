@@ -3,11 +3,11 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
-# 🏆 Stable Diffusion Awards
+# 🏆 Diffusion Awards
 Open Source Model and Project Awards
 
 ## 🥳 Motivation
-In the stable diffusion community, open-source models and project creators provide us with many useful and innovative tools. Perhaps with the Stable Diffusion Awards, we can express our gratitude.
+In the stable diffusion community, open-source models and project creators provide us with many useful and innovative tools. Perhaps with the Diffusion Awards, we can express our gratitude.
 
 ## 🏆 The Model Awards
 The Project Awards will be announced after The Model Awards.
@@ -73,7 +73,7 @@ The Project Awards will be announced after The Model Awards.
 Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing great ideas.
 
 
-### 🔗 Official URLs for the Stable Diffusion Open Source Model and Project Awards
+### 🔗 Official URLs for the Diffusion Open Source Model and Project Awards
 - https://github.com/camenduru/awards
 - https://ko-fi.com/awards
 - https://twitter.com/DiffusionAwards
