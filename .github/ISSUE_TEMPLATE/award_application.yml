@@ -88,7 +88,7 @@ body:
     id: terms
     attributes:
       label: Rules
-      description: By submitting this issue, you agree to follow our [Rules & Eligibility](https://github.com/camenduru/awards/blob/main/README.md)
+      description: By submitting this issue, you agree to follow our [Rules & Eligibility](https://github.com/camenduru/DiffusionAwards/blob/main/README.md)
       options:
         - label: I agree to follow this project's Rules & Eligibility
           required: true
