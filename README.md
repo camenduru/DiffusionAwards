@@ -40,7 +40,7 @@ The Project Awards will be announced after The Model Awards.
 - Enter five prompts that will represent your model. 
 - Because we will use GitHub for the voting process, prompts should not generate NSFW images.
 - The award application will be closed on June 1st, 2023.
-- [Award Application Form](https://github.com/camenduru/awards/issues/new?assignees=&labels=&template=award_application.yml)
+- [Award Application Form](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=award_application.yml)
 
 ### 👀 Voters
 - More than 100 voters will be invited to join the voting session. 
@@ -58,7 +58,7 @@ The Project Awards will be announced after The Model Awards.
 
 ### 💰 Money Award
 - The award winners will be announced on July 1st, 2023.
-- Since the ko-fi.com donations are public, we will collect the money using https://ko-fi.com/awards and distribute the funds to the award winners also using ko-fi.com
+- Since the ko-fi.com donations are public, we will collect the money using https://ko-fi.com/DiffusionAwards and distribute the funds to the award winners also using ko-fi.com
 - All the money collected until July 1st, 2023, will be shared as follows: First, we will divide the total funds into two. One piece will go to the Best Anime Trained Model, and the other piece will go to the Best Realistic Trained Model. The other half will be divided into 12 and shared evenly among the other categories.
 - For example, if we collect $24 USD dollars, the Best Anime Trained Model winner will receive $6 USD dollars, the Best Realistic Trained Model winner will receive $6 USD dollars, and the winners of the other categories will receive $1 USD dollar each.
 - On July 1st, 2023, the collection of donations on ko-fi.com will stop.
@@ -74,6 +74,6 @@ Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing g
 
 
 ### 🔗 Official URLs for the Diffusion Open Source Model and Project Awards
-- https://github.com/camenduru/awards
-- https://ko-fi.com/awards
+- https://github.com/camenduru/DiffusionAwards
+- https://ko-fi.com/DiffusionAwards
 - https://twitter.com/DiffusionAwards
