@@ -54,7 +54,6 @@ The Project Awards will be announced after The Model Awards.
 - All ❤ votes (likes) will be made public and shown in real-time on https://twitter.com/DiffusionAwards.
 - This is an example voting system demonstration.
 - Even if an image receives 10,000 ❤ likes, only the ❤ likes from voters will be counted as a vote.
-
 ![voting_booth](https://user-images.githubusercontent.com/54370274/228961099-a7cb5416-3598-46aa-9805-bac3fe5315e7.png)
 
 ### 💰 Money Award
