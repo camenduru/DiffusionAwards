@@ -1,4 +1,4 @@
-# 🚦 This is a proposal. This project may not be started.
+# 🚦 This is a proposal.
 
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
