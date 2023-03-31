@@ -76,3 +76,8 @@ Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing g
 - https://github.com/camenduru/DiffusionAwards
 - https://ko-fi.com/DiffusionAwards
 - https://twitter.com/DiffusionAwards
+
+### 📢 News
+Wednesday, March 29, 2023
+- New Sponsor (Company) https://www.runpod.io
+- New Sponsor (Company) https://civitai.com
