@@ -49,7 +49,7 @@ body:
     validations:
       required: true
   - type: input
-    id: vae
+    id: vae1
     attributes:
       label: If your prompt 1 requires VAE, enter the public VAE url
       description: civitai or huggingface public url
@@ -66,7 +66,7 @@ body:
     validations:
       required: true
   - type: input
-    id: vae
+    id: vae2
     attributes:
       label: If your prompt 2 requires VAE, enter the public VAE url
       description: civitai or huggingface public url
@@ -83,7 +83,7 @@ body:
     validations:
       required: true
   - type: input
-    id: vae
+    id: vae3
     attributes:
       label: If your prompt 3 requires VAE, enter the public VAE url
       description: civitai or huggingface public url
@@ -100,7 +100,7 @@ body:
     validations:
       required: true
   - type: input
-    id: vae
+    id: vae4
     attributes:
       label: If your prompt 4 requires VAE, enter the public VAE url
       description: civitai or huggingface public url
@@ -117,7 +117,7 @@ body:
     validations:
       required: true
   - type: input
-    id: vae
+    id: vae5
     attributes:
       label: If your prompt 5 requires VAE, enter the public VAE url
       description: civitai or huggingface public url
