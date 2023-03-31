@@ -43,47 +43,87 @@ body:
     id: prompt1
     attributes:
       label: Enter the prompt 1 that will represent your model.
-      description: Prompt 1 PNG Info (Please use AUTOMATIC1111/stable-diffusion-webui prompt standart. Generate your image with the webui, and then copy-paste the PNG info here.)
+      description: Prompt 1 PNG Info (Please use AUTOMATIC1111/stable-diffusion-webui prompt standart. Generate your image with the webui, and then copy-paste the PNG info here.) You can use Hires. fix, Tiling, Restore faces. You can edit your prompts until June 1st, 2023.
       placeholder: "beautiful human portrait Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10, Clip skip: 2, Model: model_name, Hires steps: 10, Hires upscale: 1.5 ..."
       render: shell
     validations:
       required: true
+  - type: input
+    id: vae
+    attributes:
+      label: If your prompt 1 requires VAE, enter the public VAE url
+      description: civitai or huggingface public url
+      placeholder: ex. https://huggingface.co/stabilityai/sd-vae-ft-mse-original/blob/main/vae-ft-mse-840000-ema-pruned.ckpt
+    validations:
+      required: false
   - type: textarea
     id: prompt2
     attributes:
       label: Enter the prompt 2 that will represent your model.
-      description: Prompt 2 PNG Info (Please use AUTOMATIC1111/stable-diffusion-webui prompt standart. Generate your image with the webui, and then copy-paste the PNG info here.)
+      description: Prompt 2 PNG Info (Please use AUTOMATIC1111/stable-diffusion-webui prompt standart. Generate your image with the webui, and then copy-paste the PNG info here.) You can use Hires. fix, Tiling, Restore faces. You can edit your prompts until June 1st, 2023.
       placeholder: "beautiful human portrait Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10, Clip skip: 2, Model: model_name, Hires steps: 10, Hires upscale: 1.5 ..."
       render: shell
     validations:
       required: true
+  - type: input
+    id: vae
+    attributes:
+      label: If your prompt 2 requires VAE, enter the public VAE url
+      description: civitai or huggingface public url
+      placeholder: ex. https://huggingface.co/hakurei/waifu-diffusion-v1-4/blob/main/vae/kl-f8-anime2.ckpt
+    validations:
+      required: false
   - type: textarea
     id: prompt3
     attributes:
       label: Enter the prompt 3 that will represent your model.
-      description: Prompt 3 PNG Info (Please use AUTOMATIC1111/stable-diffusion-webui prompt standart. Generate your image with the webui, and then copy-paste the PNG info here.)
+      description: Prompt 3 PNG Info (Please use AUTOMATIC1111/stable-diffusion-webui prompt standart. Generate your image with the webui, and then copy-paste the PNG info here.) You can use Hires. fix, Tiling, Restore faces. You can edit your prompts until June 1st, 2023.
       placeholder: "beautiful human portrait Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10, Clip skip: 2, Model: model_name, Hires steps: 10, Hires upscale: 1.5 ..."
       render: shell
     validations:
       required: true
+  - type: input
+    id: vae
+    attributes:
+      label: If your prompt 3 requires VAE, enter the public VAE url
+      description: civitai or huggingface public url
+      placeholder: ex. https://huggingface.co/stabilityai/sd-vae-ft-mse-original/blob/main/vae-ft-mse-840000-ema-pruned.ckpt
+    validations:
+      required: false
   - type: textarea
     id: prompt4
     attributes:
       label: Enter the prompt 4 that will represent your model.
-      description: Prompt 4 PNG Info (Please use AUTOMATIC1111/stable-diffusion-webui prompt standart. Generate your image with the webui, and then copy-paste the PNG info here.)
+      description: Prompt 4 PNG Info (Please use AUTOMATIC1111/stable-diffusion-webui prompt standart. Generate your image with the webui, and then copy-paste the PNG info here.) You can use Hires. fix, Tiling, Restore faces. You can edit your prompts until June 1st, 2023.
       placeholder: "beautiful human portrait Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10, Clip skip: 2, Model: model_name, Hires steps: 10, Hires upscale: 1.5 ..."
       render: shell
     validations:
       required: true
+  - type: input
+    id: vae
+    attributes:
+      label: If your prompt 4 requires VAE, enter the public VAE url
+      description: civitai or huggingface public url
+      placeholder: ex. https://huggingface.co/hakurei/waifu-diffusion-v1-4/blob/main/vae/kl-f8-anime2.ckpt
+    validations:
+      required: false
   - type: textarea
     id: prompt5
     attributes:
       label: Enter the prompt 5 that will represent your model.
-      description: Prompt 5 PNG Info (Please use AUTOMATIC1111/stable-diffusion-webui prompt standart. Generate your image with the webui, and then copy-paste the PNG info here.)
+      description: Prompt 5 PNG Info (Please use AUTOMATIC1111/stable-diffusion-webui prompt standart. Generate your image with the webui, and then copy-paste the PNG info here.) You can use Hires. fix, Tiling, Restore faces. You can edit your prompts until June 1st, 2023.
       placeholder: "beautiful human portrait Negative prompt: extra fingers, Steps: 20, Sampler: DPM++ 2M Karras, CFG scale: 10, Clip skip: 2, Model: model_name, Hires steps: 10, Hires upscale: 1.5 ..."
       render: shell
     validations:
       required: true
+  - type: input
+    id: vae
+    attributes:
+      label: If your prompt 5 requires VAE, enter the public VAE url
+      description: civitai or huggingface public url
+      placeholder: ex. https://huggingface.co/stabilityai/sd-vae-ft-mse-original/blob/main/vae-ft-mse-840000-ema-pruned.ckpt
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:
