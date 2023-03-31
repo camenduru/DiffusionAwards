@@ -14,7 +14,7 @@ The Project Awards will be announced after The Model Awards.
 
 ### 📕 Rules & Eligibility
 - Your model has to be an open source license and open to the public.
-- Your model has to be published before May 1st, 2023.
+- Your model has to be published before June 1st, 2023.
 - The model should be created by you, and we will verify this by checking the official model creator accounts on civitai.com or huggingface.com.
 - Each applicant can only join with one model and one award categorie.
 
