@@ -28,7 +28,7 @@ body:
   - type: textarea
     id: media_sponsor_message
     attributes:
-      label: Enter your message to the winners.
+      label: If you have any message to the winners, please enter it here.
       description: This message will be shown under your name and logo within our advertisement campaign.
       placeholder: "Thank You! ❤"
     validations:
