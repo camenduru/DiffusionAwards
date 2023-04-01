@@ -1,5 +1,5 @@
-name: Media Sponsorship Application
-description:  Media Sponsorship Application
+name: Sponsorship Application
+description: Sponsorship Application
 body:
   - type: input
     id: contact
