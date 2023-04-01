@@ -30,7 +30,7 @@ body:
     attributes:
       label: Enter your message to the winners.
       description: This message will be shown under your name and logo within our advertisement campaign.
-      placeholder: ""
+      placeholder: "Thank You! ❤"
       render: shell
     validations:
       required: false
