@@ -86,7 +86,7 @@ Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing g
 ### 📢 News
 Wednesday, March 29, 2023
 - 🆕 Sponsor (Company) https://www.runpod.io
-- 🆕 Sponsor (Company) https://civitai.com
+- 🆕 Media Sponsor (Company) https://civitai.com
 
 Saturday, April 2, 2023
 - 🆕 This is no more a proposal this is happening! 🥳
