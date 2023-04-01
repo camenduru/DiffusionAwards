@@ -10,15 +10,15 @@ body:
     validations:
       required: true
   - type: input
-    id: media_sponsor_url
+    id: sponsor_url
     attributes:
-      label: Official Public Media URL 
+      label: Official Public Company URL 
       description: This URL will be used in our advertisement campaign.
-      placeholder: ex. https://www.youtube.com/@camenduru
+      placeholder: ex. https://www.google.com
     validations:
       required: true
   - type: input
-    id: media_sponsor_logo
+    id: sponsor_logo
     attributes:
       label: Official Public Logo URL 
       description: This Logo will be used in our advertisement campaign. (If you have it, please add the URL for the square logo.)
@@ -26,7 +26,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: media_sponsor_message
+    id: sponsor_message
     attributes:
       label: Enter your message to the winners.
       description: This message will be shown under your name and logo within our advertisement campaign.
@@ -34,11 +34,25 @@ body:
     validations:
       required: false
   - type: textarea
-    id: media_sponsor_offer
+    id: sponsor_offer
     attributes:
-      label: Please enter what you can offer to the Diffusion Awards and to the winners.
+      label: Please enter what you can offer to the winners.
       description: Your offer should be specific.
-      placeholder: "I can talk about diffusion awards in my YouTube channel (https://www.youtube.com/@camenduru), tweet about it on my Twitter (https://twitter.com/camenduru), and make an announcement in my Discord community server (https://discord.gg/k5BwmmvJJU) before the awards. I can talk about the winners on my social media platforms (such as YouTube, Twitter, Discord, etc.) after the awards"
+      value: |
+        - Best Anime Trained Model: 
+        - Best Realistic Trained Model: 
+        - Best Anime Merged Model: 
+        - Best Realistic Merged Model: 
+        - Best Anime LoRa Model: 
+        - Best Realistic LoRa Model: 
+        - Best Anime Lycoris Model: 
+        - Best Realistic Lycoris Model: 
+        - Best Anime Textual Inversion Model: 
+        - Best Realistic Textual Inversion Model: 
+        - Best Anime Hypernetworks Model: 
+        - Best Realistic Hypernetworks Model: 
+        - Best Anime Aesthetic Gradient Model: 
+        - Best Realistic Aesthetic Gradient Model: 
     validations:
       required: true
   - type: checkboxes

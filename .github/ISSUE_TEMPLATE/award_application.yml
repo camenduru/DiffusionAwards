@@ -135,6 +135,6 @@ body:
   - type: markdown
     id: contact
     attributes:
-      value:  |
+      value: |
         **Contact**
         If you want to check the images that will represent your model before June 1st, 2023, please contact with @camenduru [twitter](https://twitter.com/camenduru) or [discord](https://discord.com/users/616280178288623619) or diffusionawards@gmail.com
