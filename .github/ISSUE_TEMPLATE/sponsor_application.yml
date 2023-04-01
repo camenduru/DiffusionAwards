@@ -55,6 +55,14 @@ body:
         - Best Realistic Aesthetic Gradient Model: 
     validations:
       required: true
+  - type: textarea
+    id: sponsor_category
+    attributes:
+      label: Please enter your categor(y)ies and what you can offer to the winner(s).
+      description: Your offer should be specific.
+      placeholder: "Best Architectural Trained Model: "
+    validations:
+      required: false
   - type: checkboxes
     id: terms
     attributes:
