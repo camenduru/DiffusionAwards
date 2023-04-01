@@ -71,8 +71,10 @@ The Project Awards will be announced after The Model Awards.
 - If sponsors wish, they can add their own category. For example, an architecture firm that wants to become a sponsor can add the 'Best Architectural Trained Model' category and provide special awards for the created category.
 
 ### 🍡 Type of sponsorship
-- Media sponsors provide announcements for the diffusion awards and to the winners. [Media Sponsorship Application](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=media_sponsor_application.yml)
-- Sponsors provide services or(and) monetary awards to the winners. [Sponsorship Application](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=sponsor_application.yml)
+- Media sponsors provide announcements for the diffusion awards and to the winners. 
+- [Media Sponsorship Application](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=media_sponsor_application.yml)
+- Sponsors provide services or(and) monetary awards to the winners. 
+- [Sponsorship Application](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=sponsor_application.yml)
 
 ### ❤ Special Thanks
 Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing great ideas.
