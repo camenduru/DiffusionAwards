@@ -55,6 +55,7 @@ The Project Awards will be announced after The Model Awards.
 - This is an example voting system demonstration.
 - Even if an image receives 10,000 ❤ likes, only the ❤ likes from voters will be counted as a vote.
 ![voting_booth](https://user-images.githubusercontent.com/54370274/228962278-63e2cf79-6026-476d-aa36-34e02e2ddf19.png)
+- In the event of two models having equal like counts, the model that was made public first will win.
 
 ### 💰 Money Award
 - The award winners will be announced on July 1st, 2023.
