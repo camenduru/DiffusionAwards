@@ -60,7 +60,7 @@ The Project Awards will be announced after The Model Awards.
 - The award winners will be announced on July 1st, 2023.
 - Since the ko-fi.com donations are public, we will collect the money using https://ko-fi.com/DiffusionAwards and distribute the funds to the award winners also using ko-fi.com
 - All the money collected until July 1st, 2023, will be shared as follows: First, we will divide the total funds into two. One piece will go to the Best Anime Trained Model, and the other piece will go to the Best Realistic Trained Model. The other half will be divided into 12 and shared evenly among the other categories.
-- For example, if we collect $24 USD dollars, the Best Anime Trained Model winner will receive $6 USD dollars, the Best Realistic Trained Model winner will receive $6 USD dollars, and the winners of the other categories will receive $1 USD dollar each.
+- For example, if we collect $24 USD dollars, the Best Anime Trained Model winner will receive $6 USD dollars, the Best Realistic Trained Model winner will receive $6 USD dollars, and the winners of the other categories will receive $1 USD dollar each. Categories added by sponsors not included.
 - On July 1st, 2023, the collection of donations on ko-fi.com will stop.
 
 ### 🖨 Sponsors (Companies)
@@ -68,6 +68,12 @@ The Project Awards will be announced after The Model Awards.
 - If we continue with the example above, any winner would receive a money award plus any additional prize provided by sponsors.
 - Sponsors (companies) should give the sponsor-provided prize directly to the winners.
 - If we obtain any sponsors (companies), we will announce what they are providing to the award winners on this page.
+- If sponsors wish, they can add their own category. For example, an architecture firm that wants to become a sponsor can add the 'Best Architectural Trained Model' category and provide special awards for the created category.
+
+### 🍡 Type of sponsorship
+- Media sponsorship: Media sponsors provide announcements for the diffusion award.
+- Service sponsorship: Service sponsors provide services to the winners.
+- Monetary sponsorship. Money sponsors provide monetary awards to the winners.
 
 ### ❤ Special Thanks
 Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing great ideas.
