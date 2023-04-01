@@ -31,7 +31,6 @@ body:
       label: Enter your message to the winners.
       description: This message will be shown under your name and logo within our advertisement campaign.
       placeholder: "Thank You! ❤"
-      render: shell
     validations:
       required: false
   - type: textarea
@@ -40,7 +39,6 @@ body:
       label: Please enter what you can offer to the diffusion awards.
       description: Your offer should be specific.
       placeholder: "I can talk about diffusion awards in my YouTube channel (https://www.youtube.com/@camenduru), tweet about it on my Twitter (https://twitter.com/camenduru), and make an announcement in my Discord community server (https://discord.gg/k5BwmmvJJU) before the awards"
-      render: shell
     validations:
       required: true
   - type: checkboxes
