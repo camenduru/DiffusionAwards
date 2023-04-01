@@ -1,5 +1,3 @@
-# 🚦 This is a proposal.
-
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
@@ -89,3 +87,6 @@ Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing g
 Wednesday, March 29, 2023
 - 🆕 Sponsor (Company) https://www.runpod.io
 - 🆕 Sponsor (Company) https://civitai.com
+
+Saturday, April 2, 2023
+- 🆕 This is no more a proposal this is happening! 🥳
