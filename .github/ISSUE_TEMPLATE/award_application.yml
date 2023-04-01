@@ -4,8 +4,8 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Contact Details
-      description: How can we get in touch with you? (The model should be created by you, and we will verify this by checking the official model creator accounts on civitai.com or huggingface.com.)
+      label: Contact Details (Please don't forget, your form will be public.)
+      description: How can we get in touch with you?
       placeholder: ex. twitter username or email or discord username or ...
     validations:
       required: true
@@ -34,7 +34,7 @@ body:
   - type: input
     id: model
     attributes:
-      label: Official Creator's Public Model URL
+      label: Official Creator's Public Model URL (The model should be created by you, and we will verify this by checking the official model creator accounts on civitai.com or huggingface.com.)
       description: civitai or huggingface public url
       placeholder: ex. https://civitai.com/models/9668/plushies
     validations:
@@ -128,7 +128,7 @@ body:
     id: terms
     attributes:
       label: Rules
-      description: By submitting this issue, you agree to follow our [Rules & Eligibility](https://github.com/camenduru/DiffusionAwards/blob/main/README.md)
+      description: By submitting this form, you agree to follow our [Rules & Eligibility](https://github.com/camenduru/DiffusionAwards/blob/main/README.md)
       options:
         - label: I agree to follow this project's Rules & Eligibility
           required: true
@@ -137,4 +137,4 @@ body:
     attributes:
       value:  |
         **Contact**
-        If you want to check the images that will represent your model before June 1st, 2023, please contact with @camenduru [twitter](https://twitter.com/camenduru) or [discord](https://discord.com/users/616280178288623619)
+        If you want to check the images that will represent your model before June 1st, 2023, please contact with @camenduru [twitter](https://twitter.com/camenduru) or [discord](https://discord.com/users/616280178288623619) or diffusionawards@gmail.com

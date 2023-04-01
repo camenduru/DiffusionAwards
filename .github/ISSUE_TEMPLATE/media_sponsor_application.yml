@@ -1,0 +1,59 @@
+name: Media Sponsorship Application
+description:  Media Sponsorship Application
+body:
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details (Please don't forget, your form will be public.)
+      description: How can we get in touch with you?
+      placeholder: ex. twitter username or email or discord username or ...
+    validations:
+      required: true
+  - type: input
+    id: media_sponsor_url
+    attributes:
+      label: Official Public Media URL 
+      description: This URL will be used in our advertisement campaign.
+      placeholder: ex. https://www.youtube.com/@camenduru
+    validations:
+      required: true
+  - type: input
+    id: media_sponsor_logo
+    attributes:
+      label: Official Public Logo URL 
+      description: This Logo will be used in our advertisement campaign. (If you have it, please add the URL for the square logo.)
+      placeholder: ex. https://pbs.twimg.com/profile_images/1467581285258436625/AVUn1adN_400x400.jpg
+    validations:
+      required: true
+  - type: textarea
+    id: sponsor_message
+    attributes:
+      label: Enter your message to the winners.
+      description: This message will be shown under your name and logo within our advertisement campaign.
+      placeholder: ""
+      render: shell
+    validations:
+      required: false
+  - type: textarea
+    id: media_sponsor_offer
+    attributes:
+      label: Please enter what you can offer to the diffusion awards.
+      description: Your offer should be specific.
+      placeholder: "I can talk about diffusion awards in my YouTube channel (https://www.youtube.com/@camenduru), tweet about it on my Twitter (https://twitter.com/camenduru), and make an announcement in my Discord community server (https://discord.gg/k5BwmmvJJU) before the awards"
+      render: shell
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Rules
+      description: By submitting this form, you agree to follow our [Rules & Eligibility](https://github.com/camenduru/DiffusionAwards/blob/main/README.md)
+      options:
+        - label: I agree to follow this project's Rules & Eligibility
+          required: true
+  - type: markdown
+    id: contact
+    attributes:
+      value:  |
+        **Contact**
+        If you want, please contact with @camenduru [twitter](https://twitter.com/camenduru) or [discord](https://discord.com/users/616280178288623619) or diffusionawards@gmail.com
