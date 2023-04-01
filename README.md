@@ -73,7 +73,7 @@ The Project Awards will be announced after The Model Awards.
 ### 🍡 Type of sponsorship
 - Media sponsorship: Media sponsors provide announcements for the diffusion award.
 - Service sponsorship: Service sponsors provide services to the winners.
-- Monetary sponsorship. Money sponsors provide monetary awards to the winners.
+- Monetary sponsorship. Monetary sponsors provide monetary awards to the winners.
 
 ### ❤ Special Thanks
 Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing great ideas.
