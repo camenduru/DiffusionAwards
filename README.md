@@ -90,4 +90,4 @@ Wednesday, March 29, 2023
 
 Saturday, April 2, 2023
 - 🆕 This is no more a proposal this is happening! 🥳
-- 🆕 Media Sponsor (Youtuber) https://www.youtube.com/@aitrepreneur
+- 🆕 Media Sponsor (Individual) https://www.youtube.com/@aitrepreneur
