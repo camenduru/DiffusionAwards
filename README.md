@@ -72,7 +72,7 @@ The Project Awards will be announced after The Model Awards.
 ### 🍡 Type of sponsorship
 - Sponsors provide services or(and) monetary awards to the winners. 
 - [Sponsorship Application Form](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=sponsor_application.yml)
-- Media sponsors provide announcements for the diffusion awards and to the winners. 
+- Media sponsors provide announcements for the diffusion awards and for the winners. 
 - [Media Sponsorship Application Form](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=media_sponsor_application.yml)
 
 ### ❤ Special Thanks
