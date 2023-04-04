@@ -1,6 +1,13 @@
 🐣 Please follow me for new updates https://twitter.com/camenduru <br />
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
+<br />
+
+[![English](https://user-images.githubusercontent.com/54370274/229683685-bb9e3dfb-9f76-46a6-bc8c-fc683fdb7d94.svg)](https://github.com/camenduru/DiffusionAwards/blob/main/README.md)
+[![Japanese](https://user-images.githubusercontent.com/54370274/229683680-18e8385f-ef9b-41ca-b76a-2ad926e8a963.svg)](https://github.com/camenduru/DiffusionAwards/blob/main/README.jp.md)
+
+<br />
+
 # 🏆 Diffusion Awards
 Open Source Model and Project Awards
 
