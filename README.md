@@ -82,8 +82,8 @@ The Project Awards will be announced after The Model Awards.
 - [Media Sponsorship Application Form](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=media_sponsor_application.yml)
 
 ### ❤ Special Thanks
-Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing great ideas.
-Thanks to [orangeqoon](https://twitter.com/orangeqoon) ❤ for the Japanese translation.
+- Thanks to [Alessandro Perilli](https://twitter.com/giano) ❤ for contributing great ideas.
+- Thanks to [orangeqoon](https://twitter.com/orangeqoon) ❤ for the Japanese translation.
 
 ### 🔗 Official URLs for the Diffusion Open Source Model and Project Awards
 - https://github.com/camenduru/DiffusionAwards

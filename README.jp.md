@@ -82,8 +82,8 @@ Open Source Model and Project Awards
 - [メディアスポンサーシップ申請フォーム](https://github.com/camenduru/DiffusionAwards/issues/new?assignees=&labels=&template=media_sponsor_application.yml)
 
 ### ❤ スペシャルサンクス
-素晴らしいアイデアを提供してくれた[Alessandro Perilli](https://twitter.com/giano) ❤に感謝します。
-[orangeqoon](https://twitter.com/orangeqoon)さんの日本語翻訳に感謝します。
+- 素晴らしいアイデアを提供してくれた[Alessandro Perilli](https://twitter.com/giano) ❤に感謝します。
+- [orangeqoon](https://twitter.com/orangeqoon)さんの日本語翻訳に感謝します。
 
 ### 🔗 Diffusion Open Source Model and Project Awardsの公式URL
 - https://github.com/camenduru/DiffusionAwards
