@@ -2,7 +2,7 @@
 🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
 # 🏆 Diffusionアワード
-Open Source Model and Project Awards
+オープンソースモデル及びプロジェクトアワード
 
 [![Diffusion Awards](https://user-images.githubusercontent.com/54370274/229377200-12fc96d0-3ae5-4277-85ad-87377b1e6f28.png)](https://github.com/camenduru/DiffusionAwards)
 🐣 https://twitter.com/DiffusionAwards <br />
