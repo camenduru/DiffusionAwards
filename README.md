@@ -103,3 +103,7 @@ Wednesday, March 29, 2023
 Saturday, April 2, 2023
 - 🆕 This is no more a proposal this is happening! 🥳
 - 🆕 Media Sponsor (Individual) https://www.youtube.com/@aitrepreneur
+
+Thursday, April 6, 2023
+- 🆕 We talked with our sponsors and received the ✅ OK signal. We are ready to go public! 🥳 
+- 🆕 $100 RunPod Credits to winner of each category. 🥳 https://github.com/camenduru/DiffusionAwards/issues/9
