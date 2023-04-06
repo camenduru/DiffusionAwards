@@ -103,3 +103,7 @@
 2023年4月2日（土）
 - 🆕 これはもう提案ではなく、実現しています！🥳
 - 🆕 メディアスポンサー（個人）https://www.youtube.com/@aitrepreneur
+
+2023年4月6日 (木)
+🆕 スポンサーと話し合い、✅ OKの信号を受け取りました。公開の準備ができました！🥳
+🆕 各カテゴリーの勝者には$100のRunPodクレジットが贈られます。🥳 https://github.com/camenduru/DiffusionAwards/issues/9
