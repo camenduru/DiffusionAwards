@@ -5,6 +5,7 @@
 
 [![English](https://user-images.githubusercontent.com/54370274/229683685-bb9e3dfb-9f76-46a6-bc8c-fc683fdb7d94.svg)](https://github.com/camenduru/DiffusionAwards/blob/main/README.md)
 [![日本語](https://user-images.githubusercontent.com/54370274/229684475-74bfa4b6-5f46-49e2-bbe8-f842c886d54e.svg)](https://github.com/camenduru/DiffusionAwards/blob/main/README.jp.md)
+![Française](https://user-images.githubusercontent.com/54370274/230513376-4aa1f98e-9dce-4100-b5e1-f9179ae67258.svg)
 
 # 🏆 Prix de la diffusion
 Prix du modèle et du projet Open Source
