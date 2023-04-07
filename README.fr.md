@@ -70,7 +70,7 @@ Les Prix des projets seront annoncés après les Prix des modèles.
 - Les lauréats des prix seront annoncés le 1er juillet 2023.
 - Étant donné que les dons sur ko-fi.com sont publics, nous collecterons l'argent en utilisant https://ko-fi.com/DiffusionAwards et distribuerons les fonds aux lauréats également en utilisant ko-fi.com
 - Tout l'argent collecté jusqu'au 1er juillet 2023 sera partagé comme suit : tout d'abord, nous diviserons les fonds totaux en deux. Une partie ira au Meilleur Modèle Entraîné pour l'Animé, et l'autre partie ira au Meilleur Modèle Entraîné pour le Réalisme. L'autre moitié sera divisée en 12 et partagée également entre les autres catégories.
-- Par exemple, si nous collectons 24 $, le gagnant du Meilleur Modèle Entraîné pour l'Animé recevra 6 $, le gagnant du Meilleur Modèle Entraîné pour le Réalisme recevra 6 $, et les gagnants des autres catégories recevront 1 $ chacun. Les catégories ajoutées par les sponsors ne sont pas incluses.
+- Par exemple, si nous collectons 24 $, le gagnant du Meilleur Modèle Entraîne pour l’Animé recevra 6 $, le gagnant du Meilleur Modèle Entraîné pour le Réalisme recevra 6 $, et les gagnants des autres catégories recevront 1 $ chacun. Les catégories ajoutées par les sponsors ne sont pas incluses.
 - Le 1er juillet 2023, la collecte de dons sur ko-fi.com sera stoppée.
 
 ### 🖨 Sponsors (Entreprises)
